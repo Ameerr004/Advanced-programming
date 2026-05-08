@@ -1,0 +1,9 @@
+*.pdf
+node_modules/
+package-lock.json
+package.json
+read_pdf.js
+debug_pdf.js
+.DS_Store
+*.class
+*.code-workspace
